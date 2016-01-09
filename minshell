@@ -1,0 +1,2 @@
+#!/usr/bin/env sh
+erl -run minshell_boot start -noshell -noinput -pa ebin
